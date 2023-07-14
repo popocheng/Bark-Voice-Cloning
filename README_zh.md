@@ -1,5 +1,7 @@
 # 第二代Bark声音克隆 🐶 & 全新中文声音克隆 🎶
 
+（TTS效果差，且不受控。音色交换效果很好，可使用第一个函数生成声音信息文件后，进行音色交换）
+
 ## 1️⃣ 第二代Bark声音克隆
 
 在线快速运行：[Colab笔记本](https://colab.research.google.com/github/KevinWang676/Bark-Voice-Cloning/blob/main/Bark_Voice_Cloning.ipynb) ⚡
